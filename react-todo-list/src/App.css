@@ -1,0 +1,9 @@
+img{
+    width: 100px;
+    height: 100px;
+    display: flex;
+}
+
+body{
+  background-color: rgb(132, 126, 126);
+}
