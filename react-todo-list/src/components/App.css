@@ -1,9 +1,4 @@
-img{
-    width: 100px;
-    height: 100px;
-    display: flex;
-}
-
 body{
-  background-color: rgb(132, 126, 126);
+  background-color: rgb(176, 167, 167);
+  font-family:Georgia, 'Times New Roman', Times, serif;
 }
